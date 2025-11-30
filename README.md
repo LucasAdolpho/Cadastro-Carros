@@ -3,10 +3,7 @@
 Nome do Projeto: CadastroCarros
 
 Resumo:
-O CadastroCarros é uma aplicação web desenvolvida para facilitar o gerenciamento de veículos em um sistema simples e intuitivo.
-O sistema permite o cadastro, listagem, edição e exclusão de carros, oferecendo uma interface amigável baseada em Thymeleaf.
-Seu público-alvo inclui estudantes, oficinas, revendedoras ou qualquer pessoa que precise organizar informações de veículos.
-A aplicação segue boas práticas de arquitetura com camadas bem definidas e oferece uma API REST para integração com outros sistemas.
+O projeto CadastroCarros foi criado para otimizar a divulgação e o gerenciamento de veículos. Ele organiza informações essenciais como modelo, ano, preço e características de forma clara e atrativa. Os anúncios são padronizados, garantindo consistência visual e textual em todas as publicações. Além disso, o sistema permite criar perfis de compradores, identificando preferências e necessidades específicas. A aplicação web oferece cadastro, listagem, edição e exclusão de carros em uma interface simples via Thymeleaf. Seu público-alvo inclui estudantes, oficinas, revendedoras e qualquer pessoa que precise organizar veículos. Com API REST e boas práticas de arquitetura, o processo torna-se mais rápido, profissional e eficaz.
 
 Escopo mínimo implementado:
 - CRUD completo da entidade Carro
