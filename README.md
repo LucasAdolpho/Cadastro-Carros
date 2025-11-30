@@ -64,10 +64,11 @@ Acesse no navegador:
 
 A aplicação implementa CRUD completo da entidade Cadastro (carro), com os seguintes campos:
 id
-nome
 marca
 modelo
-ano
+cor
+preço
+km
 
 9. Segurança
 
