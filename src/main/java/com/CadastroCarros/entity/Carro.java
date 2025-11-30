@@ -11,7 +11,7 @@ import javax.validation.constraints.Positive;
 import javax.validation.constraints.PositiveOrZero;
 
 @Entity
-public class Cadastro implements Serializable {
+public class Carro implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
