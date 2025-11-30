@@ -3,7 +3,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import com.CadastroCarros.entity.Carro;
 import com.CadastroCarros.service.CadastroService;
-@RestController @RequestMapping("/api/cadastros")
+@RestController @RequestMapping("/api/Carros")
 public class CarroApiController{
  private final CarroService service;
  public CarroApiController(CarroService service){ this.service=service; }
