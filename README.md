@@ -52,7 +52,7 @@ spring.security.user.password=123
 spring.thymeleaf.enabled=true
 
 7. Instalação e Execução
-git clone xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+git clone (https://github.com/LucasAdolpho/Cadastro-Carros.git)
 mvn spring-boot:run
 
 
@@ -112,7 +112,7 @@ mvn test
 
 14. Links de Entrega
 
-GitHub: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+GitHub: (https://github.com/LucasAdolpho/Cadastro-Carros.git)
 
 YouTube: [link do vídeo] (Não consegui fazer)
 
