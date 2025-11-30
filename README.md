@@ -9,7 +9,7 @@ Seu público-alvo inclui estudantes, oficinas, revendedoras ou qualquer pessoa q
 A aplicação segue boas práticas de arquitetura com camadas bem definidas e oferece uma API REST para integração com outros sistemas.
 
 Escopo mínimo implementado:
-- CRUD completo da entidade Cadastro
+- CRUD completo da entidade Carro
 - Interface Web utilizando Thymeleaf
 - API REST funcional
 - Estrutura em camadas (controller → service → repository)
@@ -140,4 +140,3 @@ Segurança (caso implementada) – 1,5
 17. Autores
 
 Lucas Adolpho Pereira — RA: 3023103948
-[Matheus Gouveia Melo] — RA [3025104198]
