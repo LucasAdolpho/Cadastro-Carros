@@ -9,7 +9,7 @@ Seu público-alvo inclui estudantes, oficinas, revendedoras ou qualquer pessoa q
 A aplicação segue boas práticas de arquitetura com camadas bem definidas e oferece uma API REST para integração com outros sistemas.
 
 Escopo mínimo implementado:
-- CRUD completo da entidade Carro
+- CRUD completo da entidade Cadastro
 - Interface Web utilizando Thymeleaf
 - API REST funcional
 - Estrutura em camadas (controller → service → repository)
